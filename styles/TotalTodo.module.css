@@ -1,0 +1,20 @@
+.totalTodo {
+ display: flex;
+ justify-content: flex-end;
+ margin-bottom: 20px;
+ margin-top: 20px;
+ margin-right: 20px
+}
+
+.totalTodo button {
+  border: none;
+  background-color: transparent;
+}
+
+.checkBtn {
+  color: #05b42b;
+}
+
+.pendingBtn {
+  color: #e7e406;
+}

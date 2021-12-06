@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.form input {
+  padding: 10px;
+  border-radius: 10px;
+  margin-right: 5px;
+  border-color: #810381;
+}
+
+.form button {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
+
+.form button i {
+  color: #810381;
+}
